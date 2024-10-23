@@ -6,7 +6,7 @@ const LandingPage = () => {
     return (
         <div className="landing">
             <h1>Resale Radar</h1>
-            <h3>An e-commerce guide for second-hand buyers and sellers</h3>
+            <h3>An e-commerce guide for second-hand fashion buyers and sellers</h3>
             <h2>I'm a...</h2>
             <div className='button-container'> 
                 <Link to="/buyer">
